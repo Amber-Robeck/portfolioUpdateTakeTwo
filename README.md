@@ -2,7 +2,7 @@
 
 # Portfolio
 ## GIF of page
-![GIF of page](Assets/Portfolio.gif "GIF of page")
+![GIF of page](Assets/images/Portfolio.gif "GIF of page")
 
 [Here is a link to the deployed page](https://amber-robeck.github.io/portfolioUpdate/ "My Portfolio in action")
 

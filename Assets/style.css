@@ -149,29 +149,30 @@ li > a {
     background-position: center;
 }
 
+.grid-container > div > a {
+    margin: 10px;
+    /* color: black; */
+    
+}
 .item1{
-    background-image: url("./weather-dashboard.png");
+    background-image: url("./images/weather-dashboard.png");
     /* background-size: cover;
     background-position: center; */
 }
 .item2{
-    background-image: url("./chord-base.png"); 
+    background-image: url("./images/dungeonCrawler.png"); 
 }
 .item3{
-    background-image: url("./scheduler.png");
-}
-.item4{
-    background-image: url("./code-quiz.png");
-}
-.item5{
-    background-image: url("./password-generator.png");
+    background-image: url("./images/chordBase.png");
 }
 
-.grid-container > div > a {
-    margin: 10px;
-    color: black;
-    
+.item4{
+    background-image: url("./images/categoryget.png");
 }
+.item5{
+    background-image: url("./images/password-generator.png");
+}
+
 
 /* Animation */
 .bounce:hover {
