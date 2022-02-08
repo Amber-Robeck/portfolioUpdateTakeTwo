@@ -1,5 +1,23 @@
 # portfolioUpdateTakeTwo
 
+## Description
+
+<b>Guess what?</b> Party time again! It's yet another portfolio update, _WHOOOHOOOOO!_ During this episode of portfolio update I added two different projects and chaged the colors of the links to make them more visable. I also got rid of that terrible mess of image files in the assets folder and added them into an images folder within the assets folder. assets folder? Yes you're correct it's actually my Assets folder and have no fear I did not change it to a lowercase a because I am still using that "A" as a constant reminder that the battle between upper VS lower cases doesn't ever really have a winner or loser only those who catch their mistakes and those who don't.
+
+## Links
+ Here are links to my previous two Portfolios
+ * [Unit Two Portfolio](https://amber-robeck.github.io/unitTwoPortfolio/ "Named link title") <--Hover over this one, I didn't even know what that did back in unit two!
+ * [Portfolio Update](https://amber-robeck.github.io/portfolioUpdate/ "My Portfolio in action")
+
+## GIF of NEWLY updated page
+
+![GIF of page](Assets/images/portfolioUpdateTakeTwo.gif "GIF of NEWEST update")
+
+
+And here is the read me from the previous portfolio update
+
+-----
+
 # Portfolio
 ## GIF of page
 ![GIF of page](Assets/images/Portfolio.gif "GIF of page")
